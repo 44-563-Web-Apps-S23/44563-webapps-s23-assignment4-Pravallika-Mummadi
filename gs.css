@@ -30,6 +30,22 @@
     font-size: 15px;
 }
 
+table,
+th,
+td {
+    text-align: center;
+    border: 2px solid;
+    margin: 35px 35px 25px 40px;
+    border-color: rgb(94, 75, 131);
+    color: aquamarine;
+    
+}
+th,
+td {
+    padding: 16px;
+}
+tr:nth-child(even) 
+{background-color: #304c92;}
 
 
 
