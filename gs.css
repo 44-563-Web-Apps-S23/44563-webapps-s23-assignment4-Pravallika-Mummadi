@@ -64,6 +64,25 @@ tr:nth-child(even)
     border: 2px solid;
    border-color: rgb(52, 175, 197);
 }
+.material-icons{
+    color: blue;
+    font-size: 20px;
+}
+
+    .nav{
+    list-style-type: none;
+    margin: 3px;
+    padding: 3 px;
+    overflow: hidden;
+    background-color: rgb(178, 178, 185);
+  }
+
+  li {
+    float: center;
+    padding: 14px 16px;
+    color: green;
+  }
+
 
 
 
